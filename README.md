@@ -22,4 +22,3 @@
 - Бизнес тестирование
 
 ![Фото](https://sun9-83.userapi.com/impg/MPy6MxA_xVQDD8rcJcPqgHpS5ea_JRv3BJBuIw/sKrKquwnQRk.jpg?size=1897x2160&quality=96&sign=6fb44872b5cce2db92d515c70734ac3b&type=album)
-remote_theme: benbalter/relab
