@@ -21,4 +21,4 @@
 - Mind Map
 - Бизнес тестирование
 
-![Фото](https://sun9-78.userapi.com/impg/jpyHfX4S03VpoxfUDQQebkWrn-JYP6aoGSF0Bg/461NwYPrCPg.jpg?size=1900x2160&quality=96&sign=08fb6ab259dcc77c984b6d4d57a3f007&type=album)
+![Фото](https://sun9-83.userapi.com/impg/MPy6MxA_xVQDD8rcJcPqgHpS5ea_JRv3BJBuIw/sKrKquwnQRk.jpg?size=1897x2160&quality=96&sign=6fb44872b5cce2db92d515c70734ac3b&type=album)
