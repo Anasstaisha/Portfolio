@@ -10,7 +10,7 @@
    
 Мои _hard skills_ пока не очень обширны, но я полна энтузиазма и открыта к изучению всего нового:
 
-- Pustman
+- Postman
 - JMETER
 - Git
 - Check-list
